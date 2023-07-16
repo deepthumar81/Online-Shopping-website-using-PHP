@@ -1,0 +1,10 @@
+Our prior art search, our main observation for “ASL To English Converter” is given below: 
+
+Observation
+Life is getting busy and complex day by day. Communication is most essential part of our life. In certain case of scenarios is get big trouble when dumb and deft people can’t communicate in their environment.
+
+Our idea
+On providing a text bas automated translator for sign language to text. User is freely interacting with each other. While providing major used to sign language support for user niche is completely satisfied.
+
+Summary
+While there has been considerable success in using Deep Learning to natural language processing and machine translation, this work has not been accessible to the deaf community. That's why we're putting out a proposal here. Method for ensuring that these people may take advantage of these developments. We employ transfer learning to speed up the learning process and boost performance. By utilising existing models, we were able to improve the accuracy of our ASL-to-English translator to 75%.
